@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sundar-daya
-- 👀 I’m interested to develop coding
+- 👀 I’m interested in develop coding
 - 🌱 I’m currently learning ...full stack dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out at sundardaya1997@gmail.com
